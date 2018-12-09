@@ -1,0 +1,8 @@
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\bin\Debug\RevitBasicFileInfo.exe
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\bin\Debug\RevitBasicFileInfo.pdb
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\bin\Debug\WindowsBase.dll
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\obj\x86\Debug\RevitBasicFileInfo.csprojResolveAssemblyReference.cache
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\obj\x86\Debug\RevitBasicFileInfo.csproj.CoreCompileInputs.cache
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\obj\x86\Debug\RevitBasicFileInfo.csproj.CopyComplete
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\obj\x86\Debug\RevitBasicFileInfo.exe
+E:\Autodesk Revit Tools\RevitBasicFileInfo\C#\obj\x86\Debug\RevitBasicFileInfo.pdb
